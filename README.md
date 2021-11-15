@@ -67,3 +67,4 @@ TVアニメで登場する主要キャラクターのモチーフや服装など
 ##  2020年度発表用プレゼンテーション
  [発表スライド](https://docs.google.com/presentation/d/1rZg_0igUzBBMqVaE7acKVi1N6eq_Ws1DZAswYk2U7nI/edit#slide=id.gbb410e4814_2_1)
 ## 2021年度 中間報告プレゼンテーション
+ [発表スライド](https://docs.google.com/presentation/d/1HPFAN4-ck84yJVDlLfvUs7P0WPy5Q6LDRvPoqtNMtfM/edit?usp=sharing)
