@@ -32,7 +32,7 @@ TVアニメで登場する主要キャラクターのモチーフや服装など
 【　フォント　】
 キャラクターのイメージや性格、雰囲気などに合わせてフォントを選択する。また、カラーとフォントの相性も見ながら調整する。
 
-
+【　テクスチャー/パターン　】 
   
 ##  Result
 [竈門禰豆子デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2nghbv3mq917lewdd4eyut.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
