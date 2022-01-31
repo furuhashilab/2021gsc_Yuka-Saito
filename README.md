@@ -75,15 +75,21 @@ TVアニメで登場する主要キャラクターのモチーフや服装など
 
 【　STEP2: 地形選びとモチーフデザイン 】  
 
+例：）  
+竈門禰豆子→パリ,フランス
+胡蝶しのぶ
 
 
+![スクリーンショット 2022-01-31 11 22 13](https://user-images.githubusercontent.com/62432677/151738652-029e70bc-5615-4111-9bf7-ba2c0fb5049d.png)
+
+![スクリーンショット 2022-01-31 11 25 55](https://user-images.githubusercontent.com/62432677/151738876-745a0e56-a98d-4566-bfe5-4ebbab46275c.png)
+  
 
 
 【　STEP3: 細かな調整(フォント、色調整) 】  
 
 
 
-  
 ##  Result
 [竈門禰豆子デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2nghbv3mq917lewdd4eyut.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
 ![スクリーンショット 2021-01-25 16 56 38](https://user-images.githubusercontent.com/62432677/151735322-6d8867ba-943b-4445-b491-d17a7e8bb923.png)
