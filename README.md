@@ -83,15 +83,16 @@ TVアニメで登場する主要キャラクターのモチーフや服装など
   
 ##  Result
 [竈門禰豆子デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2nghbv3mq917lewdd4eyut.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
-![Nezuko Kamado](https://user-images.githubusercontent.com/62432677/105676810-61ddeb00-5f2e-11eb-80b7-4fb928c2cb93.png)  
+![スクリーンショット 2021-01-25 16 56 38](https://user-images.githubusercontent.com/62432677/151735322-6d8867ba-943b-4445-b491-d17a7e8bb923.png)
 
-   
+[竈門炭治郎]()
+![スクリーンショット 2022-01-30 0 51 03](https://user-images.githubusercontent.com/62432677/151735364-e3a624bd-e0be-4cf5-8916-8311ba0552d8.png)
    
 [煉獄杏寿郎イメージデザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2p8f233odv17nzpgpn4hzz.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
 ![Kyojyuro Rengoku](https://user-images.githubusercontent.com/62432677/105671286-ccd6f400-5f25-11eb-8741-0fa3df7ee12c.png)  
    
 [胡蝶しのぶイメージデザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2i5son0cv017p3t034mk0m.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
-![Shinobu Kocho](https://user-images.githubusercontent.com/62432677/105671367-eed07680-5f25-11eb-921d-b5c7b461705b.png)  
+![スクリーンショット 2022-01-30 0 30 58](https://user-images.githubusercontent.com/62432677/151735440-69827c1a-b76e-4b06-a9d1-ddbb51810585.png)
 
   
 
