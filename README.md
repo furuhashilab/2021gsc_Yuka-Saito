@@ -85,16 +85,18 @@ TVアニメで登場する主要キャラクターのモチーフや服装など
 [竈門禰豆子デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2nghbv3mq917lewdd4eyut.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
 ![スクリーンショット 2021-01-25 16 56 38](https://user-images.githubusercontent.com/62432677/151735322-6d8867ba-943b-4445-b491-d17a7e8bb923.png)
 
-[竈門炭治郎]()
+[竈門炭治郎デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckw0wlstu980c14pl5nwn4uyo.html?title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ&zoomwheel=true&fresh=true#15.32/35.454896/139.631341/44.8)
 ![スクリーンショット 2022-01-30 0 51 03](https://user-images.githubusercontent.com/62432677/151735364-e3a624bd-e0be-4cf5-8916-8311ba0552d8.png)
-   
-[煉獄杏寿郎イメージデザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2p8f233odv17nzpgpn4hzz.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
-![Kyojyuro Rengoku](https://user-images.githubusercontent.com/62432677/105671286-ccd6f400-5f25-11eb-8741-0fa3df7ee12c.png)  
-   
-[胡蝶しのぶイメージデザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2i5son0cv017p3t034mk0m.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
+      
+[胡蝶しのぶデザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2i5son0cv017p3t034mk0m.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
 ![スクリーンショット 2022-01-30 0 30 58](https://user-images.githubusercontent.com/62432677/151735440-69827c1a-b76e-4b06-a9d1-ddbb51810585.png)
 
-  
+[煉獄杏寿郎デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckk2p8f233odv17nzpgpn4hzz.html?fresh=true&title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ)  
+![Kyojyuro Rengoku](https://user-images.githubusercontent.com/62432677/105671286-ccd6f400-5f25-11eb-8741-0fa3df7ee12c.png)  
+
+[宇髄天元デザイン](https://api.mapbox.com/styles/v1/yukasaito/ckyy075a8007a15ldalvo56q9.html?title=view&access_token=pk.eyJ1IjoieXVrYXNhaXRvIiwiYSI6ImNrZDYxdjRzcTFrN2wycW8zNnBvZndwcGEifQ.rblEBet0xcsjyEvxDI1SzQ&zoomwheel=true&fresh=true#9.93/55.7684/37.5012/20/52)
+![スクリーンショット 2022-01-30 0 15 22](https://user-images.githubusercontent.com/62432677/151735564-8b9768f5-f6a8-4df1-a92f-4fe1d88bb1db.png)
+
 
 ##  Discussion 
 
