@@ -120,14 +120,13 @@ tipsとして、地図上では基本的に幾何学模様のような直線を�
 
 ##  参考文献
 
-> 松澤(2020), TVアニメ『鬼滅の刃』 [公式キャラクターズブック 壱ノ巻](https://books.shueisha.co.jp/items/contents.html?isbn=978-4-8342-1721-6), 集英社, 原作 吾峠呼世晴, ©︎吾峠呼世晴/集英社・アニプレックス・ufotable  
-> 木下(2021), TVアニメ『鬼滅の刃』 [公式キャラクターズブック 参ノ巻](https://books.shueisha.co.jp/items/contents.html?isbn=978-4-8342-1723-0), 集英社, 原作 吾峠呼世晴, ©︎吾峠呼世晴/集英社・アニプレックス・ufotable  
+[参考文献リスト](https://docs.google.com/spreadsheets/d/1AQOKlf3PrHLxROyGEIvP08MMFDqMS1xr7-e97pEbLLE/edit?usp=sharing)
 
 ##  先行事例
 吉田桃子(2016)　[現代の江戸切絵図](https://g-expo.jp/2016/geocon/pdf/geocon_presenter05.pdf) 慶応義塾大学石川初研究会　
 
 ##  謝辞
-
+本研究を進めるにあたり地球社会共生学部の古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。  
 ##  2022年卒業論文提出用
 ##  2020年度発表用プレゼンテーション
  [発表スライド](https://docs.google.com/presentation/d/1rZg_0igUzBBMqVaE7acKVi1N6eq_Ws1DZAswYk2U7nI/edit#slide=id.gbb410e4814_2_1)
