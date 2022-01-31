@@ -127,8 +127,10 @@ tipsとして、地図上では基本的に幾何学模様のような直線を�
 
 ##  謝辞
 本研究を進めるにあたり地球社会共生学部の古橋大地教授をはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。  
-##  2022年卒業論文提出用
+
 ##  2020年度発表用プレゼンテーション
- [発表スライド](https://docs.google.com/presentation/d/1rZg_0igUzBBMqVaE7acKVi1N6eq_Ws1DZAswYk2U7nI/edit#slide=id.gbb410e4814_2_1)
+ [発表スライド](https://docs.google.com/presentation/d/1rZg_0igUzBBMqVaE7acKVi1N6eq_Ws1DZAswYk2U7nI/edit#slide=id.gbb410e4814_2_1)  
 ## 2021年度 中間報告プレゼンテーション
- [発表スライド](https://docs.google.com/presentation/d/1HPFAN4-ck84yJVDlLfvUs7P0WPy5Q6LDRvPoqtNMtfM/edit?usp=sharing)
+ [発表スライド](https://docs.google.com/presentation/d/1HPFAN4-ck84yJVDlLfvUs7P0WPy5Q6LDRvPoqtNMtfM/edit?usp=sharing)  
+## 2021年度 最終発表用プレゼンテーション
+ [発表スライド](https://docs.google.com/presentation/d/14gikp98qlIxJhhtSTgTmEMaBLPv5lCoS3T5QTZ4n09I/edit?usp=sharing) 
